@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 0711 .
+find directory -type d -exec chmod 0711 .
